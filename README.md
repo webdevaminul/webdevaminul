@@ -20,7 +20,7 @@ I love to build web applications that not only look great but also provide a sea
   
  🌱 I’m currently learning **Next.js**
   
- 📈 I’m currently improving **ReactJS, NodeJS, MongoDB**
+ 📈 I’m currently improving **React, Node.JS, MongoDB**
 
 ⚡ Fun fact **I love teaching**
 
