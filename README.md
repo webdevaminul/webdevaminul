@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=0067f9&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Aminul+Islam!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&pause=100&size=35&color=0067f9&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+👋;+I'm+Aminul+Islam!;" />
 </h1>
 
 <h3>
@@ -30,12 +30,15 @@ I love to build web applications that not only look great but also provide a sea
 
 ### 🧰 Skills I Know
 
-![HTML5](https://img.shields.io/badge/html5-%23ffffff.svg?&style=for-the-badge&logo=html5&logoColor=black)
-![CSS3](https://img.shields.io/badge/css3-%23ffffff.svg?&style=for-the-badge&logo=css3&logoColor=black)
-![JavaScript](https://img.shields.io/badge/javascript-%23ffffff.svg?&style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/react-%23ffffff.svg?&style=for-the-badge&logo=react&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%23ffffff.svg?&style=for-the-badge&logo=tailwind-css&logoColor=black)
-![Firebase](https://img.shields.io/badge/firebase-%23ffffff.svg?&style=for-the-badge&logo=firebase&logoColor=black)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2306B6D4.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/react-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black)
+![Firebase](https://img.shields.io/badge/firebase-%23FFCA28.svg?&style=for-the-badge&logo=firebase&logoColor=black)
+![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23000000.svg?&style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
 
 <h1></h1>
 
