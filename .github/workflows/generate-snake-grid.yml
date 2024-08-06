@@ -13,13 +13,12 @@ jobs:
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3 # Use v3 to avoid Node.js deprecation issues
+        uses: actions/checkout@v3 # Updated to v3 to avoid Node.js deprecation issues
 
       - name: Generate snake animation
         uses: Platane/snk@v2.2.0
         with:
           github_user_name: webdevaminul
-          output: dist/github-contribution-grid-snake.svg
 
       - name: Commit and push the generated snake grid
         run: |
