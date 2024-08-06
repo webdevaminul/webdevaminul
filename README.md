@@ -1,14 +1,32 @@
-## 👋 I'm Aminul Islam.
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=webdevaminul&label=Profile%20views&color=0067f9&style=flat" alt="webdevaminul" />
+</p>
 
-### A Front End Web Developer from Bangladesh
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=0067f9&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Aminul+Islam!;" />
+</h1>
 
-### 🚀 About Me
+<h3>
+  A Front-end Web Developer from Bangladesh
+</h3>
+
+<div>
 
 I love to build web applications that not only look great but also provide a seamless user experience. I am constantly learning and expanding my skill set, and I'm excited to contribute to meaningful projects.
 
-### 🔥 Daily Streak
+</div>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=webdevaminul&theme=black-white&hide_border=true)](https://git.io/streak-stats)
+<div>
+  
+ 🌱 I’m currently learning **Next.js**
+  
+ 📈 I’m currently improving **ReactJS, NodeJS, MongoDB**
+
+⚡ Fun fact **I love teaching**
+
+ </div>
+
+<h1></h1>
 
 ### 🧰 Skills I Know
 
@@ -19,28 +37,31 @@ I love to build web applications that not only look great but also provide a sea
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%23ffffff.svg?&style=for-the-badge&logo=tailwind-css&logoColor=black)
 ![Firebase](https://img.shields.io/badge/firebase-%23ffffff.svg?&style=for-the-badge&logo=firebase&logoColor=black)
 
-### 📈 Skills I am Improving...
+<h1></h1>
 
-![JavaScript](https://img.shields.io/badge/javascript-%23ffffff.svg?&style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/react-%23ffffff.svg?&style=for-the-badge&logo=react&logoColor=black)
-![MongoDB](https://img.shields.io/badge/mongodb-%23ffffff.svg?&style=for-the-badge&logo=mongodb&logoColor=black)
+### 🔥 Daily Streak
 
-### 🌟 Skills I am Exploring...
+[![GitHub Streak](https://streak-stats.demolab.com?user=webdevaminul&count_private=true&theme=transparent&hide_border=false&border_radius=5)](https://git.io/streak-stats)
 
-![Next.js](https://img.shields.io/badge/next.js-%23ffffff.svg?&style=for-the-badge&logo=next.js&logoColor=black)
-
-### ⚡ Fun Fact
-
-I once solve a Rubik's Cube in 3 minutes!
-
-### 📈 Contribution Graph
-
-![snake gif](https://github.com/webdevaminul/webdevaminul/blob/output/github-contribution-grid-snake.gif)
+<h1></h1>
 
 ### 🌐 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/webdevaminul/)
-- [Personal Portfolio](https://aminul-islam-portfolio.netlify.app/)
+<div> 
+  
+  <a href="mailto:webdev.aminul@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  
+  <a href="https://www.linkedin.com/in/webdevaminul/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  
+  <a href="https://aminul-islam-portfolio.netlify.app/" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
+  </a>
+  
+</div>
 
 <!--
 **webdevaminul/webdevaminul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
