@@ -35,7 +35,7 @@ I once solve a Rubik's Cube in 3 minutes!
 
 ### 📈 Contribution Graph
 
-![snake gif](https://github.com/webdevaminul/webdevaminul/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/webdevaminul/webdevaminul/blob/output/github-contribution-grid-snake.gif)
 
 ### 🌐 Connect with Me
 
