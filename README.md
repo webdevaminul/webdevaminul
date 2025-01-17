@@ -7,7 +7,7 @@
 </h1>
 
 <h3>
-  A Front-end Web Developer from Bangladesh
+  A MERN-Stack Web Developer from Bangladesh
 </h3>
 
 <div>
